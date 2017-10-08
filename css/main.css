@@ -17,10 +17,9 @@ html {
   color: #b4fff4;
   border-color: #90ccc3;
   border-radius: 8px;
-  padding: .4em 1.75em;
 }
 
-i {
+.icon {
   bottom: .25em;
 }
 
@@ -29,6 +28,10 @@ i {
   background-color: rgba(180, 255, 244, .2);
   color: #b4fff4;
   border-color: #90ccc3;
+  transition: all 250ms ease;
+}
+
+.btn-ghost {
   transition: all 250ms ease;
 }
 
