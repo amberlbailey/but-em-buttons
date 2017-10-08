@@ -24,7 +24,7 @@ i {
   bottom: .25em;
 }
 
-.btn:hover
+.btn:hover,
 .btn:focus {
   background-color: rgba(180, 255, 244, .2);
   color: #b4fff4;
@@ -34,7 +34,7 @@ i {
 
 .icon,
 .btn {
-  transition: all 250ms ease-in-out;
+  transition: all 250ms ease;
 }
 
 .btn:active {
