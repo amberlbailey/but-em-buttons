@@ -1,0 +1,18 @@
+html {
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.banner {
+  background-image: url("../images/starfield.png");
+}
+
+.banner-content {
+  text-shadow: 1px 1px 30px rgba(255, 255, 255, .7);
+  color: #fff;
+}
+
+.btn-wrapper a {
+  color: #b4fff4;
+  border-color: #90ccc3;
+  border-radius: 8px;
+}
